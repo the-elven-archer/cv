@@ -51,3 +51,83 @@ save_as: index.html
   - DNS server management (BIND9)  
   - Server configuration using Puppet and Saltstack  
   - Software deployment automation using Jenkins CI and Ansible  
+
+### Work Experience
+**Aeropuertos Argentina 2000 S.A.**  
+_UNIX Sysadmin_  
+
+  - Responsible of servers running critical airport services as:  
+    + FIDS: Flight Information Display System.  
+    + TAMS: Total Airport Management System.  
+    + Maintenance of Oracle DB servers.  
+  - Responsible of low level internal services:  
+    + ISC Bind DNS farms.  
+    + ISC DHCP  
+    + OpenLDAP  
+  - Responsible of airport webservices using:  
+    + Apache HTTPd + HAProxy  
+    + Tomcat  
+    + Python Flask under GUnicorn  
+    + Application deployment using Jenkins CI  
+    + Server provisioning using Saltstack  
+    + Datacenter tasks:  
+    + Server rack­mounting and instalation  
+    + Network cabling and maintenance  
+
+_February 2014 ­ Present_  
+
+**Vostu Ltd.**  
+_UNIX Sysadmin_  
+
+  - Responsible of development and production environments under Amazon Elastic Cloud.  
+  - Server use optimization applying Amazon ASGs + Cloudwatch for a better resource allocation.  
+  - Application deployment using automated deploy scripts.  
+  - R+D of VM automation under Xen Server and KVM.  
+  - Responsible of internal services:  
+  - SAMBA + LDAP  
+  - SVN Repositories  
+  - VMWare ESX + EMC VNXe  
+  - OpenVPN AS solution  
+
+_July 2010 ­ February 2014_  
+
+**CMD – Compañía de Medios Digitales**  
+_UNIX Sysadmin_  
+
+  - Responsible of production environments under high traffic scenarios using SQUID + Apache + Jetty.  
+  - Responsible of Datacenter.  
+    + Approximately 250 HP DL360 / Dell [R210|R710|PowerEdge 2950] / Sun Sunfire v20z.  
+    + EMC VNX Storage.  
+
+_July 2009 ­ July 2010_  
+
+**Allytech S.A.**  
+_Sysadmin_  
+
+  - Hosting Services Administration.  
+  - LAMP / LAPP environment administration  
+  - Postfix mail services  
+  - OpenVZ virtual servers  
+  - End­User Phone Tech Support.  
+
+_November 2008 ­ July 2009_  
+
+**Upstream Connections Ltd.**  
+_Sysadmin_  
+
+  - LAMP Development and Production environment administration  
+  - PHP / MySQL webpage programming  
+  - Remote Help Desk  
+
+_October 2007 ­ November 2008_  
+
+**Insite Latin­América S.R.L.**  
+_Help Desk / Junior Sysadmin_  
+
+  - Windows users tech support  
+  - Intranet services administration  
+  - SVN repositories  
+  - SAMBA + CUPS file and printer shares  
+  - E­Mail services using QMail  
+
+_February 2006 ­ October 2007_  
