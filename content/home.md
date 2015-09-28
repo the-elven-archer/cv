@@ -26,10 +26,12 @@ save_as: index.html
   CLA - Carrera Linux  
 
 ####**Formal Education** 
+
+  _College_  
   Currently coursing second year of IT Systems Engineering  
   UTN (Universidad Tecnológica Nacional)  
 
-  High School  
+  _High School_  
   E.E.M. No 13 “Gral. Don Manuel Belgrano”  
   Lacroze No 4915, Villa Ballester  
   Specialization: Economy and Management  
