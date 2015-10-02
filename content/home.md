@@ -2,7 +2,7 @@ Title: Curriculum Vitae
 date: 2014-12-13 18:32
 save_as: index.html
 
-# Santiago Buczak - Sysadmin / DevOps
+# Santiago Buczak - Sysadmin / DevOps Initiate
 
 ### Personal Info
   **Nationality**: Argentine  
@@ -40,8 +40,7 @@ save_as: index.html
 ### Tech Knowledge
   - Web oriented programming using Python/Flask - PHP/HTML  
   - Shell scripting using Python - PHP-CLI - PERL - BASH  
-  - Linux Server Administration  
-  - (Debian - Ubuntu - CentOS - RHEL - Fedora)  
+  - Linux Server Administration (Debian - Ubuntu - CentOS - RHEL - Fedora)  
   - Apache Web Server Installation/Compilation/Management  
   - Tomcat Application Server Administration  
   - Samba + LDAP Network Integration  
@@ -73,10 +72,10 @@ _UNIX Sysadmin_
     + Application deployment using Jenkins CI  
     + Server provisioning using Saltstack  
     + Datacenter tasks:  
-    + Server rack­mounting and instalation  
-    + Network cabling and maintenance  
+      * Server rack­mounting and instalation  
+      * Network cabling and maintenance  
 
-_February 2014 ­ Present_  
+_February 2014 - Present_  
 
 **Vostu Ltd.**  
 _UNIX Sysadmin_  
@@ -91,7 +90,7 @@ _UNIX Sysadmin_
   - VMWare ESX + EMC VNXe  
   - OpenVPN AS solution  
 
-_July 2010 ­ February 2014_  
+_July 2010 - February 2014_  
 
 **CMD – Compañía de Medios Digitales**  
 _UNIX Sysadmin_  
@@ -101,7 +100,7 @@ _UNIX Sysadmin_
     + Approximately 250 HP DL360 / Dell [R210|R710|PowerEdge 2950] / Sun Sunfire v20z.  
     + EMC VNX Storage.  
 
-_July 2009 ­ July 2010_  
+_July 2009 - July 2010_  
 
 **Allytech S.A.**  
 _Sysadmin_  
@@ -112,7 +111,7 @@ _Sysadmin_
   - OpenVZ virtual servers  
   - End­User Phone Tech Support.  
 
-_November 2008 ­ July 2009_  
+_November 2008 - July 2009_  
 
 **Upstream Connections Ltd.**  
 _Sysadmin_  
@@ -121,7 +120,7 @@ _Sysadmin_
   - PHP / MySQL webpage programming  
   - Remote Help Desk  
 
-_October 2007 ­ November 2008_  
+_October 2007 - November 2008_  
 
 **Insite Latin­América S.R.L.**  
 _Help Desk / Junior Sysadmin_  
@@ -132,4 +131,4 @@ _Help Desk / Junior Sysadmin_
   - SAMBA + CUPS file and printer shares  
   - E­Mail services using QMail  
 
-_February 2006 ­ October 2007_  
+_February 2006 - October 2007_  
