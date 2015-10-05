@@ -72,8 +72,8 @@ _UNIX Sysadmin_
     + Application deployment using Jenkins CI  
     + Server provisioning using Saltstack  
     + Datacenter tasks:  
-      * Server rack­mounting and instalation  
-      * Network cabling and maintenance  
+        - Server rack­mounting and instalation  
+        - Network cabling and maintenance  
 
 _February 2014 - Present_  
 
@@ -83,7 +83,6 @@ _UNIX Sysadmin_
   - Responsible of development and production environments under Amazon Elastic Cloud.  
   - Server use optimization applying Amazon ASGs + Cloudwatch for a better resource allocation.  
   - Application deployment using automated deploy scripts.  
-  - R+D of VM automation under Xen Server and KVM.  
   - Responsible of internal services:  
   - SAMBA + LDAP  
   - SVN Repositories  
