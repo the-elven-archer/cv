@@ -21,6 +21,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 THEME = "/opt/webapps/cv/theme"
+
+STATIC_PATHS = ['images', 'keys']
+
 USER_LOGO_URL = SITEURL + "/images/profile_400x400.jpg"
 
 TAGS_SAVE_AS = ''
