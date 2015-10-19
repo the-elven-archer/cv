@@ -22,7 +22,7 @@ save_as: index.html
   PHP and MySQL Development  
   CIUA - Linux College  
 
-  LCSS - Linux Certified Security System  
+  LCSS - Linux Certified Security Specialist  
   CLA - Carrera Linux  
 
 ####**Formal Education** 
