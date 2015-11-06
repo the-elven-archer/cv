@@ -80,7 +80,7 @@ _February 2014 - Present_
 **Vostu Ltd.**  
 _UNIX Sysadmin_  
 
-  - Responsible of development and production environments under Amazon Elastic Cloud.  
+  - Responsible of development and production environments under Amazon Elastic Compute Cloud.  
   - Server use optimization applying Amazon ASGs + Cloudwatch for a better resource allocation.  
   - Application deployment using automated deploy scripts.  
   - Responsible of internal services:  
