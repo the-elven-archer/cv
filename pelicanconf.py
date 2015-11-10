@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 THEME = "/opt/webapps/cv/theme"
 
-STATIC_PATHS = ['images', 'keys']
+STATIC_PATHS = ['images', 'keys', 'pdf']
 
 USER_LOGO_URL = SITEURL + "/images/profile_400x400.jpg"
 
