@@ -9,7 +9,7 @@ save_as: index.html
   **Marital status**: Single  
   **Address**: Solis 994, Ciudad Autonoma de Buenos Aires  
   **Zip code**: C1078AAT  
-  **Phone**: 4306-2229 / 15-6453-6630 / 15-4569-1478  
+  **Phone**: 4306-2229 / 15-6453-6630  
   **E-Mail**: the.elven.archer@gmail.com / jaakko@buczak.com.ar  
   
   
@@ -96,7 +96,7 @@ _UNIX Sysadmin_
 
   - Responsible of production environments under high traffic scenarios using SQUID + Apache + Jetty.  
   - Responsible of Datacenter.  
-    + Approximately 250 HP DL360 / Dell [R210|R710|PowerEdge 2950] / Sun Sunfire v20z.  
+    + Approximately 150 HP DL360 / Dell [R210|R710|PowerEdge 2950] / Sun Sunfire v20z.  
     + EMC VNX Storage.  
 
 _July 2009 - July 2010_  
