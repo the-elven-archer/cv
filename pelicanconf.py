@@ -45,10 +45,12 @@ DEFAULT_PAGINATION = False
 
 PDF_GENERATOR = True
 PLUGIN_PATHS = ["/opt/webapps/pelican_commons/pelican-plugins"]
-PLUGINS = ['pdf']
 
-PDF_STYLE_PATH = "/usr/local/lib/python2.7/site-packages/rst2pdf/styles/"
-PDF_STYLE = "kerning"
+
+#PDF_STYLE_PATH = "/usr/local/lib/python2.7/site-packages/rst2pdf/styles/"
+#PDF_STYLE_PATH = "/opt/webapps/cv/theme/static/css/"
+#PDF_STYLE = "kerning"
+#PDF_STYLE = "style.css"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
