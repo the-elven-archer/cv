@@ -54,6 +54,19 @@ save_as: index.html
   - Software deployment automation using Jenkins CI and Ansible  
 
 ### Work Experience
+**Avature Ltd.**
+_UNIX Sysadmin_
+  - Responsible of application deployment and monitoring
+    + Package and Repository maintenance, using DEB files
+    + Wide scale deployment using Rundeck
+  - Responsible of platform webservices under Nginx and Apache+
+  - Server provisioning using Puppet
+  - Responsible of virtual environments maintenance
+    + AWS EC2 Servers
+    + KVM Servers
+
+_December 2015 - Present_
+
 **Aeropuertos Argentina 2000 S.A.**  
 _UNIX Sysadmin_  
 
@@ -75,7 +88,7 @@ _UNIX Sysadmin_
         - Server rack­mounting and instalation  
         - Network cabling and maintenance  
 
-_February 2014 - Present_  
+_February 2014 - December 2015_  
 
 **Vostu Ltd.**  
 _UNIX Sysadmin_  
