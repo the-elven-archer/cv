@@ -2,7 +2,7 @@ Title: Curriculum Vitae
 date: 2014-12-13 18:32
 save_as: index.html
 
-# Santiago Buczak - Sysadmin / DevOps Initiate
+# Santiago Buczak - Sysadmin / DevOps
 
 ### Personal Info
   **Nationality**: Argentine  
