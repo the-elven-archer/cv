@@ -61,7 +61,7 @@ _UNIX Sysadmin_
   - Responsible of application deployment and monitoring  
     + Package and Repository maintenance, using DEB files  
     + Wide scale deployment using Rundeck  
-  - Responsible of platform webservices under Nginx and Apache+  
+  - Responsible of platform webservices under Nginx and Apache  
   - Server provisioning using Puppet  
   - Responsible of virtual environments maintenance  
     + AWS EC2 Servers  
