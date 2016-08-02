@@ -36,7 +36,7 @@ TAG_SAVE_AS = ''
 #         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('Facebook', 'https://www.facebook.com/santiago.buczak'),
+SOCIAL = (('LinkedIn', 'https://ar.linkedin.com/in/santiago-buczak-0803ab22'),
           ('Twitter', 'http://twitter.com/the_elven'),
 	  ('Github', 'https://github.com/the-elven-archer/'))
 
