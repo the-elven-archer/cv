@@ -15,15 +15,26 @@ save_as: index.html
   
 ###Education
   
-####**Courses and Certs**
-  Linux Debian Expert Certification (LPI)  
-  Centraltech S.R.L.  
+####**Courses and Certifications**
+  - PHP and MySQL Development  
+  _CIUA - Linux College_  
+  _June 2006_
+  
+  - Linux Debian Expert Certification (LPI)  
+  _Centraltech S.R.L._  
+  _December 2009_
 
-  PHP and MySQL Development  
-  CIUA - Linux College  
+  - LCSS - Linux Certified Security Specialist  
+  _CLA - Carrera Linux_  
+  _February 2011_
 
-  LCSS - Linux Certified Security Specialist  
-  CLA - Carrera Linux  
+  - Arduino  
+  _EducacionIT_  
+  _December 2015_
+
+  - Monitoring Climate from Space  
+  _ESA - Futurelearn_  
+  _February 2016_
 
 ####**Formal Education** 
 
@@ -53,6 +64,7 @@ save_as: index.html
   - Server configuration using Puppet and Saltstack  
   - Software deployment automation using Jenkins CI and Ansible  
 
+### Certifications
 ### Work Experience
 
 **Avature Ltd.**  
