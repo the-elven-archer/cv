@@ -19,30 +19,26 @@ save_as: index.html
   - PHP and MySQL Development  
   _CIUA - Linux College_  
   _June 2006_
-  
   - Linux Debian Expert Certification (LPI)  
   _Centraltech S.R.L._  
   _December 2009_
-
   - LCSS - Linux Certified Security Specialist  
   _CLA - Carrera Linux_  
   _February 2011_
-
   - Arduino  
   _EducacionIT_  
   _December 2015_
-
   - Monitoring Climate from Space  
   _ESA - Futurelearn_  
   _February 2016_
 
 ####**Formal Education** 
 
-  _College_  
+  - _College_  
   Currently coursing second year of IT Systems Engineering  
   UTN (Universidad Tecnológica Nacional)  
 
-  _High School_  
+  - _High School_  
   E.E.M. No 13 “Gral. Don Manuel Belgrano”  
   Lacroze No 4915, Villa Ballester  
   Specialization: Economy and Management  
@@ -64,7 +60,6 @@ save_as: index.html
   - Server configuration using Puppet and Saltstack  
   - Software deployment automation using Jenkins CI and Ansible  
 
-### Certifications
 ### Work Experience
 
 **Avature Ltd.**  
